@@ -1,6 +1,6 @@
 Form
 
-This is a **Survey Form** project built with HTML and CSS, created as part of a challenge for [FreeCodeCamp](https://www.freecodecamp.org). The project showcases basic web form creation, layout, and validation using HTML5.
+This is a **Survey Form** project built with HTML and CSS. The project showcases basic web form creation, layout, and validation using HTML5.
 
 ## Project Overview
 
